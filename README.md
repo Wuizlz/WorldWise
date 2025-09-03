@@ -57,6 +57,8 @@ VITE_GEOCODE_API_URL=https://api.bigdatacloud.net/data/reverse-geocode-client
 4. Run the development server
 npm run dev
 
+
+
 <img width="1470" height="838" alt="Screenshot 2025-09-03 at 9 45 49 AM" src="https://github.com/user-attachments/assets/aae69ef2-8923-4f99-ad69-bb5ea0a333de" />
 <img width="1470" height="838" alt="Screenshot 2025-09-03 at 9 46 31 AM" src="https://github.com/user-attachments/assets/b473519d-c9db-4afc-9887-a7889ea252c7" />
 <img width="1470" height="836" alt="Screenshot 2025-09-03 at 9 46 49 AM" src="https://github.com/user-attachments/assets/34a1a2e3-403e-4816-ad0e-af003326c310" />
@@ -66,5 +68,3 @@ npm run dev
 
 
 
-6. Build for production
-npm run build
